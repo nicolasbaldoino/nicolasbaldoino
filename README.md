@@ -1,11 +1,11 @@
 # Nicolas Baldoino
 
+💻 **Software Engineer | AI Enthusiast**  
 🎓 **3rd Year Computer Science Student**  
-💻 **Full-Stack Developer | AI Enthusiast**  
 
 ---
 
-With over 3 years of experience as a full-stack developer, I've honed my skills both in corporate environments and personal projects. My expertise lies in identifying and solving complex problems, refining code with Git, and collaborating effectively with team members to create impactful solutions.  
+Self-taught engineer who started with PHP and soon ventured into the world of JavaScript. I've worked extensively with React, Next.js, and other great frameworks.  
 
 I'm currently pursuing a Bachelor's degree in Computer Science at **Universidade do Sul de Santa Catarina**. My academic journey has equipped me with knowledge in:  
 - **Algorithms and Data Structures**  
