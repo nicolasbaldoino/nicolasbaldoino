@@ -1,32 +1,30 @@
 # Nicolas Baldoino
 
----
-
 Self-taught engineer who started with PHP and soon ventured into the world of JavaScript. I've worked extensively with React, Next.js, and other great frameworks.  
 
 ---
 
-<br>**Tech Stack**
+**Tech Stack**
+
 <div style="display: inline_block">
+  <img align="center" alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="GCP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Vercel" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+
   <img align="center" alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Fastify" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
 
+  <img align="center" alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
   <img align="center" alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="center" alt="ESLint" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
+  <img align="center" alt="Biome" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/biome/biome-original.svg">
   <img align="center" alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Kubernetes" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="GitHub Actions" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-  <img align="center" alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="GCP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Vercel" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
-  <img align="center" alt="Supabase" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
-
-  <img align="center" alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
