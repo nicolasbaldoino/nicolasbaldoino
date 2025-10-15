@@ -1,19 +1,8 @@
 # Nicolas Baldoino
 
-💻 **Software Engineer | AI Enthusiast**  
-🎓 **3rd Year Computer Science Student**  
-
 ---
 
 Self-taught engineer who started with PHP and soon ventured into the world of JavaScript. I've worked extensively with React, Next.js, and other great frameworks.  
-
-I'm currently pursuing a Bachelor's degree in Computer Science at **Universidade do Sul de Santa Catarina**. My academic journey has equipped me with knowledge in:  
-- **Algorithms and Data Structures**  
-- **Artificial Intelligence**  
-- **Networks**  
-
-### **My Mission**  
-To leverage my passion and technical expertise to craft innovative solutions that foster collaboration and drive results for individuals and organizations.
 
 ---
 
