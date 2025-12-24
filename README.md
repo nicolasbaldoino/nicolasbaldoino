@@ -1,10 +1,10 @@
 # Nicolas Baldoino
 
-Self-taught engineer who started with PHP and soon ventured into the world of JavaScript. I've worked extensively with React, Next.js, and other great frameworks.  
+Software Engineer passionate about building things and solving problems. Always exploring new ideas and learning along the way.
 
----
+<br />
 
-**Tech Stack**
+## Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
@@ -27,9 +27,9 @@ Self-taught engineer who started with PHP and soon ventured into the world of Ja
   <img align="center" alt="GitHub Actions" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
----
+<br />
 
-### **Let's Connect!**  
+## Let's Connect!
 
 <div> 
   <a href="https://nicolas.baldoino.com" target="_blank"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
